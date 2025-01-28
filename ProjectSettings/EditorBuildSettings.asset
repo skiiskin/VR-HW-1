@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/KiiskinenSatu_IXRS_HW1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b568712749446e641ab2f0222ed35cbd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 521fd716f83e2a542b2b10e8e67153c5, type: 2}
